@@ -1,0 +1,6 @@
+This script lets you:
+1.Add line number to a text
+2.Delete line number from text
+3.Change file name extension
+4.Backup file
+5.Reverse file
